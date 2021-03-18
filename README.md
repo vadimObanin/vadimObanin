@@ -20,7 +20,7 @@
 ## I am currently learning: 
 ![React](https://img.shields.io/badge/-ReactJS-292929?style=for-the-badge&logo=React)
 
-## My blog: http://obanin.ru
+## My blog: https://obanin.ru
 
 ## Contacts
 
