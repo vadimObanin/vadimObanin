@@ -4,7 +4,7 @@
 
 ### Languages and Technologies
 ![C++](https://img.shields.io/badge/-C++-292929?style=for-the-badge&logo=C++)
-![C#](https://img.shields.io/badge/-C#-292929?style=for-the-badge&logo=C#)
+![C#](https://img.shields.io/badge/-csharp-292929?style=for-the-badge&logo=csharp)
 ![HTML](https://img.shields.io/badge/-HTML-292929?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-292929?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-292929?style=for-the-badge&logo=sass)
