@@ -22,8 +22,6 @@
 ## I am currently learning: 
 ![React](https://img.shields.io/badge/-ReactJS-292929?style=for-the-badge&logo=React)
 
-## My blog: https://obanin.ru
-
 ## Contacts
 
 ### Mail: vadim@obanin.ru
